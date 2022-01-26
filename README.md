@@ -1,6 +1,6 @@
 # Hello World! <img src="assets/world.gif" width="50px" style="transform: translateY(7px);">
 I'm Elena Sacramento, I consider myself as a very friendly person, who loves to work in a team and who loves to challenge herself. 
-- 💼 I'm currently working on [EVM](https://www.evm.net/)
+- 💼 I'm currently working as a Data Engineer in [EVM](https://www.evm.net/)
 - 😊Pronouns: She/Her
 ## We can meet at ...
 <div>
